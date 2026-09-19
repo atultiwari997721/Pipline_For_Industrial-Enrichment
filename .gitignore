@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Node
+node_modules/
+demo_recorder/frames/
+demo_recorder/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Submission & Video Artifacts
+*.pptx
+*.mp4
+SUBMISSION_GUIDE.md
+DEMO_VIDEO_SCRIPT.md
+presentation/
+
+# Logs
+*.log

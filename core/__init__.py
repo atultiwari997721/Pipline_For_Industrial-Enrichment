@@ -1,0 +1,3 @@
+"""
+UniHack Core Package
+"""
